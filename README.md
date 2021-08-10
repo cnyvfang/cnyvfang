@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm EricFang</h1>
 <h3 align="center">A software engineering student at Southwestern University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnyvfang&label=Profile%20views&color=0e75b6&style=flat" alt="cnyvfang" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cnyvfang" alt="cnyvfang" /></a> </p>
-
 - 🔭 I’m currently working on [labelGo](https://github.com/cnyvfang/labelGo)
 
 - 📫 How to reach me **fangchengyuswu@163.com**
@@ -16,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnyvfang&show_icons=true&locale=en&layout=compact" alt="cnyvfang" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnyvfang&show_icons=true&locale=en" alt="cnyvfang" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cnyvfang&" alt="cnyvfang" /></p>
