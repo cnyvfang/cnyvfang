@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm EricFang</h1>
 <h3 align="center">A software engineering student at Southwest University</h3>
 
-- 🔭 I’m currently working on [labelGo](https://github.com/cnyvfang/labelGo)
+- 🔭 I’m currently working on Image Translation
 
 - 📫 How to reach me **fangchengyuswu@163.com**
 
