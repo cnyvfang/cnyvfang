@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working on Image Translation
 
-- 📫 How to reach me **fangchengyuswu@163.com**
+- 📫 How to reach me: **fangchengyuswu@163.com**
