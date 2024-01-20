@@ -1,6 +1,6 @@
 ![Chengyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnyvfang&include_all_commits=true)
 
-<h3>Hi 👋, I'm Chengyu Fang</h3>
+<h2>Hi 👋, I'm Chengyu Fang</h2>
 
 [![Homepage](https://img.shields.io/badge/Homepage-ChengyuFang-green.svg "Homepage")](https://chengyufang.tech "Homepage")
 [![Mail Badge](https://img.shields.io/badge/-chengyufang.thu@gmail.com-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:chengyufang.thu@gmail.com)](mailto:chengyufang.thu@gmail.com)
