@@ -1,3 +1,4 @@
+![Chengyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnyvfang&include_all_commits=true)
 
 <h3>Hi 👋, I'm Chengyu Fang</h3>
 
@@ -10,6 +11,5 @@
 
 💞️ I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
 
-![Chengyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnyvfang&include_all_commits=true)
 
 
