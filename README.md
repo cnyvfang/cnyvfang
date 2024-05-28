@@ -2,7 +2,7 @@
 
 <h2>Hi 👋, I'm Chengyu Fang</h2>
 
-[![Homepage](https://img.shields.io/badge/Homepage-https://chengyufang.tech-green.svg "Homepage")](https://chengyufang.tech "Homepage")
+[![Homepage](https://img.shields.io/badge/Homepage-https://chengyufang.site-green.svg "Homepage")](https://chengyufang.site "Homepage")
 [![Mail Badge](https://img.shields.io/badge/-chengyufang.thu@gmail.com-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:chengyufang.thu@gmail.com)](mailto:chengyufang.thu@gmail.com)
 
 🚀 Interested in Robotics, Low-Level Computer Vision, and Concealed Object Segmentation.
