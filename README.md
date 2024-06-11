@@ -2,6 +2,7 @@
 
 <h2>Hi 👋, I'm Chengyu Fang</h2>
 
+![](https://komarev.com/ghpvc/?username=cnyvfang&color=red)
 [![Homepage](https://img.shields.io/badge/Homepage-https://chengyufang.site-green.svg "Homepage")](https://chengyufang.site "Homepage")
 [![Mail Badge](https://img.shields.io/badge/-chengyufang.thu@gmail.com-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:chengyufang.thu@gmail.com)](mailto:chengyufang.thu@gmail.com)
 
