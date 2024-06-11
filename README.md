@@ -1,4 +1,6 @@
-![Chengyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnyvfang\&include_all_commits=true\&count_private=true\&hide=prs,issues\&rank_icon=percentile)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnyvfang\&hide=prs,issues)
 
 <h2>Hi 👋, I'm Chengyu Fang</h2>
 
