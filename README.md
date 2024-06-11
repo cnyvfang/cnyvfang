@@ -12,4 +12,6 @@
 💞️ I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
 
 
+<h2> Total Visitors: </h2>
 
+![Visitor Count](https://profile-counter.glitch.me/cnyvfang/count.svg)
