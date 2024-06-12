@@ -6,7 +6,7 @@
 [![Homepage](https://img.shields.io/badge/Homepage-https://chengyufang.site-green.svg "Homepage")](https://chengyufang.site "Homepage")
 [![Mail Badge](https://img.shields.io/badge/-chengyufang.thu@gmail.com-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:chengyufang.thu@gmail.com)](mailto:chengyufang.thu@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=cnyvfang&include_all_commits=true&rank_icon=percentile&hide=prs,issues" alt="logo" height="150" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=cnyvfang&rank_icon=percentile&hide=prs,issues" alt="logo" height="150" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 🚀 Interested in Robotics, Low-Level Computer Vision, and Concealed Object Segmentation.
 
