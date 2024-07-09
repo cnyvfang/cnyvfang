@@ -10,7 +10,7 @@
 
 🚀 Interested in Robotics, Low-Level Computer Vision, and Concealed Object Segmentation.
 
-🎓 Now Bachelor student in SWU, Research Assistant in THU (And will be Master Student here in 24 Fall).
+🎓 Now Master student in Institute of Data and Information, Tsinghua University.
 
 💞️ I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
 
