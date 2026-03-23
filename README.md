@@ -8,7 +8,7 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=cnyvfang&rank_icon=percentile&hide=prs,issues" alt="logo" height="150" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
 
-🚀 Interested in, Real-world Oriented Computer Vision, Multimodal Large Language Model, and Medical AI.
+🚀 Interested in, Real-world Oriented Computer Vision, MLLM Post-training.
 
 🎓 Now Master student at Institute of Data and Information, Tsinghua University.
 
