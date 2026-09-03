@@ -2,6 +2,9 @@
 
 <h2>Hi 👋, I'm Chengyu Fang</h2>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnyvfang&count_private=true)
+
+
 ![](https://komarev.com/ghpvc/?username=cnyvfang&color=red)
 [![Homepage](https://img.shields.io/badge/Homepage-https://chengyufang.tech-green.svg "Homepage")](https://chengyufang.tech "Homepage")
 [![Mail Badge](https://img.shields.io/badge/-chengyufang.thu@gmail.com-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:chengyufang.thu@gmail.com)](mailto:chengyufang.thu@gmail.com)
