@@ -2,8 +2,6 @@
 
 <h2>Hi 👋, I'm Chengyu Fang</h2>
 
-[![Chengyu's GitHub stats](https://github-stats-extended.vercel.app/api?username=cnyvfang)](https://github.com/stats-organization/github-stats-extended)
-
 ![](https://komarev.com/ghpvc/?username=cnyvfang&color=red)
 [![Homepage](https://img.shields.io/badge/Homepage-https://chengyufang.tech-green.svg "Homepage")](https://chengyufang.tech "Homepage")
 [![Mail Badge](https://img.shields.io/badge/-chengyufang.thu@gmail.com-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:chengyufang.thu@gmail.com)](mailto:chengyufang.thu@gmail.com)
