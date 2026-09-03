@@ -2,7 +2,7 @@
 
 <h2>Hi 👋, I'm Chengyu Fang</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnyvfang&count_private=true)
+[![Chengyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnyvfang)](https://github.com/cnyvfang/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=cnyvfang&color=red)
